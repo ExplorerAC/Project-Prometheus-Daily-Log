@@ -13,7 +13,7 @@
 - Error Log Updated
 - Notes Revisited (Chemistry, Physics)
 
-**MITx**
+**MITx - Machine Learning:**
 
 - Submitted Homework 5
 - Watching Lecture 5
