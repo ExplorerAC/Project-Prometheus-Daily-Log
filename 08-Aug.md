@@ -16,3 +16,4 @@
 **MITx**
 
 - Submitted Homework 5
+- Watching Lecture 5
