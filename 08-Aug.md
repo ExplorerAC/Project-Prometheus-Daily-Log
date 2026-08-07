@@ -29,3 +29,14 @@
 
 - Error Log Not Updated
 - Notes Revisited (Maths)
+
+## August 6th
+
+**Subjects Studied:**
+
+- **Maths:** Completed Log Questions (DPP, 20 Questions medium level) 
+
+**Total:** 20 Questions
+
+- Error Log Not Updated
+- Notes Revisited (Maths)
